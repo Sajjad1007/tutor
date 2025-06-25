@@ -4,6 +4,8 @@
 
 Welcome to **Tutor**, a modern and fully responsive landing page designed to showcase high-quality educational video courses for students. The project aims to provide an engaging and seamless user experience, ensuring a visually appealing layout with easy accessibility on mobile, tablet and desktop devices.
 
+### [Click here](https://tutor-by-sajjadur-rahman.vercel.app/) to visit the website.
+
 ## Technologies Used
 
 1. **HTML5:** Markup language for structuring the website with clean and semantic coding.
